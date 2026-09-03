@@ -40,7 +40,7 @@ defaults:
 # site domain, full URL to the production location of your collection
 url: 
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: https://kpark.com/
+baseurl: https://kpark.github.io.com
 # location of code, the full url to your github repository
 source-code: https://github.com/kpark-bit/kpark.github.io
 
