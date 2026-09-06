@@ -14,6 +14,29 @@ part: Assignments
 
 {% include essay/feature/image-gallery.html
    objectid="coll005" %}
-<img width="468" height="297" alt="image" src="https://github.com/user-attachments/assets/70f5730e-7a5a-48f3-8537-176c6e78e2ec" />
+
+
+{% include essay/feature/aside.html
+   objectid="coll001"
+   text="Context about this item" %}
+
+{% include essay/feature/aside.html
+   objectid="coll002"
+   text="Context about this item" %}
+
+{% include essay/feature/aside.html
+   objectid="coll003"
+   text="Context about this item" %}
+
+{% include essay/feature/aside.html
+   objectid="coll004"
+   text="Context about this item" %}
+
+{% include essay/feature/aside.html
+   objectid="coll005"
+   text="Context about this item" %}
+<img width="468" height="540" alt="image" src="https://github.com/user-attachments/assets/20a2ca88-d54b-4a5c-bdad-e5008f5b9ecb" />
+
+
 
 
