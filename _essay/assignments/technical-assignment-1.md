@@ -6,6 +6,9 @@ part: Assignments
 
 
 
+# Their Arduous March: The Inter-Korean Border, Nonhuman Displacement, and the Translation of Crisis
+
+
 
 In the summer of 1975, reported cases of animal rabies reached their highest level since Korea’s liberation in 1945, throwing South Korea into crisis. Rabies control in Seoul soon shifted from vaccinating pet dogs to culling street dogs. As the city’s surging dog population outstripped the state’s supply of rabies vaccine, the authoritarian government turned to coercion. At roughly the same time, Park Chung Hee, who ruled South Korea from 1961 to 1979, refer to North Korea in declaring that “a mad dog needs a club.” His words made fear of rabies in the streets resonate with hostility toward North Korea. The two anticommunist posters shown here further testify to the Cold War conditions that enabled this coercive turn in disease control. The dog-catching squads that moved through Seoul’s alleys protected citizens from disease; they also advertised, in everyday life, the efficacy of authoritarian rule in eliminating threats. In fact, the state did erase dogs from the streets and rabies receded.
 
