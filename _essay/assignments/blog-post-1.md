@@ -4,8 +4,14 @@ order: 3
 part: Assignments
 ---
 
-* Hello World
-## Hello World
-1. **Hello** *World*
+### Toward More Just Machine Learning: A Short Note for Addressing Data Inequality
 
-> Hello World
+Data inequality is, at its simplest, a gap in knowledge: a disparity in the ability to own, access, and use data. It operates at many levels, from individuals to nations. Its principal cause today is often identified as the unequal capacity to digitize analog materials and maintain the necessary infrastructure, since digitization dramatically expands the possibilities for accessing and using data. The problem is that its benefits and costs are unevenly distributed. Communities excluded from this process are especially vulnerable. They exist in the world, yet in its digital counterpart, information about them is scarce or distorted. These digital inequalities then flow back into everyday life, as knowledge shaped on others’ terms comes to constrain their lives.
+
+Can adding more data, then, overcome this inequality? Patricia Murrieta-Flores’s lecture suggests otherwise: such efforts can create greater problems. First, some knowledge is difficult to accommodate in a digital database. Even Western science, which we often take as the standard, cannot be fully digitized. The tacit knowledge crucial to a successful experiment is rarely put into writing. Knowledge from cultures that have had little opportunity to participate in digitization is harder to incorporate. Second, some knowledge should not enter a database, including information with religious significance or sensitive information on which marginalized people’s rights depend. Third, the data selected for digitization may themselves be deeply distorted. In Korean history, my own field, this would be the case if we accumulated only records produced by the Japanese colonial government (1910–45), or collected English-language materials about Korea while excluding Korean-language sources.
+
+If adding more data is not the answer, what might be? I believe we must first change our perspective. We need to relinquish the belief that those currently directing digitization can also remedy the problems it creates. Power must instead pass to communities long excluded from the process: the power to add, edit, and delete information in their own languages and from their own perspectives. Even with this editorial authority, however, minority communities would still face the daunting task of correcting bias across such a vast digital world.
+
+This is where I think machine learning could contribute. Machine-learning systems can identify patterns in data supplied by humans and draw on those patterns to classify new information. The initial training data thus help establish the framework through which a system interprets the world. Once established, that framework will not necessarily change simply because more data are added. What if marginalized communities could exercise editorial authority at the stage when these initial datasets are assembled? Machine learning built on a more justly constituted dataset might offer an imperfect but meaningful response to the digital world’s imbalances. What encourages me most is the possibility of achieving substantial effects with comparatively modest effort.
+
+For this to happen, we must bring a technology often treated as apolitical into the realm of politics. At a time of unprecedented investment, the machine-learning market seems to operate solely according to the imperatives of capital and national security. Yet machine learning involves human intervention, and that intervention is part of everyday politics. Recognizing this is a necessary first step toward confronting digital inequality through machine learning.
