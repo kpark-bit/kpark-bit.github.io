@@ -24,6 +24,10 @@ Yet these new fragments, too, must be produced through interpretation. As Arnold
 
 
 
+
+
+
+
 **References**
 
 Arnold, Taylor, and Lauren Tilton. 2023. "Distant Viewing: Theory." In Distant Viewing: Computational Exploration of Digital Images, 9–31. Cambridge, MA: MIT Press.
