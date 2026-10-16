@@ -20,8 +20,8 @@
 #
 image-style: full-image                # full-image, half-image, or no-image
 featured-image: /assets/img/seoul.jpg
-featured-image-credit: "General Research Division, The New York Public Library. 'An illustration of writing brushes' The New York Public Library Digital Collections. 1908. [https://digitalcollections.nypl.org/items/07caacb0-c6cc-012f-af8d-58d385a7bc34](https://digitalcollections.nypl.org/items/07caacb0-c6cc-012f-af8d-58d385a7bc34)"
-featured-image-alt-text: "An illustration of writing brushes with Japanese labels" # Add alt text for accessibility
+featured-image-credit: "Seoul Museum of History. 'Construction Site in the Jamsil District, Han River Comprehensive Development Project.' Seoul History Archive, January 24, 1986. Archive No. H-TRNS-101596-774. [https://museum.seoul.go.kr/archive/archiveNew/NR_archiveView.do?ctgryId=CTGRY772&subCtgryId=CTGRY774&searchVal=&upperNodeId=CTGRY774&sortOrder=&currentPage=4&type=B&fileSn=300&fileId=H-TRNS-101596-774](https://museum.seoul.go.kr/archive/archiveNew/NR_archiveView.do?ctgryId=CTGRY772&subCtgryId=CTGRY774&searchVal=&upperNodeId=CTGRY774&sortOrder=&currentPage=4&type=B&fileSn=300&fileId=H-TRNS-101596-774)"
+featured-image-alt-text: "Construction Site in the Jamsil District, Han River Comprehensive Development Project" # Add alt text for accessibility
 
 
 # NAVIGATION FEATURES
