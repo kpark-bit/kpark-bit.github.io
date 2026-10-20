@@ -152,7 +152,7 @@ How does Du Bois`s use of photographs alongside charts change what the exhibitio
 
 When does demanding more data about injustice help challenge it, and when might it delay action ? 
 
-How does recovering the students`contributions change our understanding of Du Bois`s data portraits? 
+How does recovering the students contributions change our understanding of Du Bois`s data portraits? 
 
  
 
@@ -168,68 +168,68 @@ In your groups, choose one of the projects listed below and explore!
 
 Critical DH Projects for Discussion 
 
-SlaveVoyages
+1. SlaveVoyages
 
 A project that uses databases and maps to visualize the scale and routes of the transatlantic slave trade.  
 
 https://www.slavevoyages.org/  
 
 
-Stop LAPD Spying Coalition Archive 
+2. Stop LAPD Spying Coalition Archive 
 
 A project documenting police surveillance in LA and community resistance to it. 
 
 https://stoplapdspyingarchive.org/   
 
 
-The Pudding — Film Dialogue from 2,000 Screenplays, Broken Down by Gender and Age 
+3. The Pudding — Film Dialogue from 2,000 Screenplays, Broken Down by Gender and Age 
 
 http://pudding.cool/2017/03/film-dialogue/  
 
 
-The Brownies' Book: Legacies of Black Childhood 
+4. The Brownies' Book: Legacies of Black Childhood 
 
 A digital exhibition on an African American children's magazine from the 1920s. 
 
 https://thebrowniesbook.omeka.net/  
 
 
-South Asian American Digital Archive (SAADA) — Exhibits 
+5. South Asian American Digital Archive (SAADA) — Exhibits 
 
 A digital archive documenting the histories and identities of South Asian American communities. 
 
 https://www.saada.org/explore/exhibits  
 
 
-Anti-Eviction Mapping Project 
+6. Anti-Eviction Mapping Project 
 
 A project using maps and oral histories to document the impact of evictions and gentrification on local communities. 
 
 https://antievictionmappingproject.wordpress.com/ 
 
 
-Colored Conventions Project  
+7. Colored Conventions Project  
 
 A digital exhibition on Black Americans' struggles for rights in the nineteenth century. 
 
 https://coloredconventions.org/ 
 
 
-Scribes of the Cairo Geniza  
+8. Scribes of the Cairo Geniza  
 
 A crowdsourcing project in which volunteers help classify and transcribe documents from medieval Jewish communities. 
 
 https://www.scribesofthecairogeniza.org/ 
 
 
-South African History Online (SAHO) — Timelines  
+9. South African History Online (SAHO) — Timelines  
 
 An online resource on South African history and culture. 
 
 https://sahistory.org.za/timelines 
 
 
-Stolen Relations — Tribal Partners 
+10. Stolen Relations — Tribal Partners 
 
 A collaborative project with Indigenous communities that sheds light on the history of Indigenous enslavement and forced labor in America. 
 
