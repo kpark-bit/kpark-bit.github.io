@@ -38,9 +38,9 @@ Data Feminism (Ken Park)
 
 Catherine D'Ignazio and Lauren F. Klein. Data Feminism, 2020. 
 
-  "Introduction: Why Data Science Needs Feminism" 
+"Introduction: Why Data Science Needs Feminism" 
 
-      Summary of the reading 
+Summary of the reading 
 
 Data are not simply collections of objective facts. How they are produced, analyzed, and used is entangled with power structures. Yet data are not inherently oppressive. While they have long been used to reproduce existing structures of power, they can also become tools to challenge them. 
 
@@ -48,7 +48,8 @@ Social justice is at the center of data feminism. It examines how conventional p
 
 The justice that data feminism envisions extends beyond reconfirming the inequalities faced by marginalized groups. By producing more inclusive and reliable knowledge, it seeks to provide a foundation for society as a whole to challenge oppressive power structures reinforced by current data-related practices. 
 
-      Discussion Questions 
+
+Discussion Questions 
 
 What counts as data? 
 
@@ -62,9 +63,9 @@ How might a data feminist perspective inform research in your field?
 
  
 
-  "Our Values and Our Metrics for Holding Ourselves Accountable" 
+"Our Values and Our Metrics for Holding Ourselves Accountable" 
 
-      Summary of the reading 
+Summary of the reading 
 
 The appendix not only asks 'What values do we advocate?' but also 'How much does the knowledge we produce embody those values?'  
 
@@ -74,7 +75,8 @@ The authors share a concern that, without critically reflecting on their own res
 
 The appendix presents the authors' stated values, their personal and academic backgrounds, the metrics they use, and their reflections on what those metrics reveal. 
 
-    Discussion Questions 
+
+Discussion Questions 
 
 How well do the authors' metrics reflect their five core values? 
 
@@ -90,6 +92,7 @@ Part 2:
 
 Piril Kadirgan Ata 
 
+
 Summary of the reading 
 
 Lauren Klein, "Between Data and Truth: W.E.B. Du Bois's 'Data Portraits" 
@@ -99,6 +102,7 @@ Klein looks at the charts Du Bois and his students made for the 1900 Paris Expos
 The charts highlighted changes in education, employment, and property ownership after emancipation. Their colors and unusual designs helped tell this story. 
 
 Photographs appeared alongside the charts, giving visitors a view of individual lives that statistics alone could not provide.  
+
 
 Summary of the reading 
 
@@ -148,7 +152,7 @@ How does Du Bois`s use of photographs alongside charts change what the exhibitio
 
 When does demanding more data about injustice help challenge it, and when might it delay action ? 
 
-How does recovering the students` contributions change our understanding of Du Bois`s data portraits? 
+How does recovering the students`contributions change our understanding of Du Bois`s data portraits? 
 
  
 
@@ -164,43 +168,71 @@ In your groups, choose one of the projects listed below and explore!
 
 Critical DH Projects for Discussion 
 
-SlaveVoyages 
+SlaveVoyages
+
 A project that uses databases and maps to visualize the scale and routes of the transatlantic slave trade.  
+
 https://www.slavevoyages.org/  
 
+
 Stop LAPD Spying Coalition Archive 
+
 A project documenting police surveillance in LA and community resistance to it. 
+
 https://stoplapdspyingarchive.org/   
 
+
 The Pudding — Film Dialogue from 2,000 Screenplays, Broken Down by Gender and Age 
+
 http://pudding.cool/2017/03/film-dialogue/  
 
+
 The Brownies' Book: Legacies of Black Childhood 
+
 A digital exhibition on an African American children's magazine from the 1920s. 
+
 https://thebrowniesbook.omeka.net/  
 
+
 South Asian American Digital Archive (SAADA) — Exhibits 
+
 A digital archive documenting the histories and identities of South Asian American communities. 
+
 https://www.saada.org/explore/exhibits  
 
+
 Anti-Eviction Mapping Project 
+
 A project using maps and oral histories to document the impact of evictions and gentrification on local communities. 
+
 https://antievictionmappingproject.wordpress.com/ 
 
+
 Colored Conventions Project  
+
 A digital exhibition on Black Americans' struggles for rights in the nineteenth century. 
+
 https://coloredconventions.org/ 
 
+
 Scribes of the Cairo Geniza  
+
 A crowdsourcing project in which volunteers help classify and transcribe documents from medieval Jewish communities. 
+
 https://www.scribesofthecairogeniza.org/ 
 
+
 South African History Online (SAHO) — Timelines  
+
 An online resource on South African history and culture. 
+
 https://sahistory.org.za/timelines 
 
+
 Stolen Relations — Tribal Partners 
+
 A collaborative project with Indigenous communities that sheds light on the history of Indigenous enslavement and forced labor in America. 
+
 https://stolenrelations.org/tribal-community-partners-information-and-links/ 
 
  
